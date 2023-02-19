@@ -1,2 +1,2 @@
 # Wikipedia-Project
-My custom wikipedia project made with using Wikipedia API
+My custom wikipedia project which retreive data using Wikipedia API
