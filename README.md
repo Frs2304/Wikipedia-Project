@@ -1,2 +1,2 @@
 # Wikipedia-Project
-My custom wikipedia project which retreive data using Wikipedia API
+My custom Wikipedia project that utilizes the Wikipedia API, which allows users to perform specific searches, extract data from Wikipedia pages, and display results in a user-friendly format.
