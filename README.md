@@ -1,6 +1,7 @@
-## Wikipedia Search App
+# Wikipedia Search App
 
 The Wikipedia Search App is a web application that utilizes the Wikipedia API to allow users to perform specific searches, extract data from Wikipedia pages, and display the results in a user-friendly format. This project is built using HTML, CSS, JavaScript, and jQuery.
+
 Features
 
     Search for specific keywords or phrases on Wikipedia
