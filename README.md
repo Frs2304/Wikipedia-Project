@@ -10,7 +10,7 @@ The Wikipedia Search App is a web application that utilizes the Wikipedia API to
     Filter search results by type (article, category, or file)
     Responsive design for mobile and desktop screens
 
-Installation
+## Installation
 
 To install the Wikipedia Search App, simply clone this repository to your local machine or download the ZIP file. Then, open the index.html file in your preferred web browser to start using the application.
 Usage
