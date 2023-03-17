@@ -20,6 +20,3 @@ To use the Wikipedia Search App, simply enter a search query in the search bar a
 
 To view the full Wikipedia page for a search result, simply click on the title of the article. This will open the article in a new tab.
 
-## Contributing
-
-If you're interested in contributing to the Wikipedia Search App, we welcome your contributions! Feel free to submit a pull request or open an issue to suggest new features, report bugs, or offer feedback.
