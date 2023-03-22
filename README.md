@@ -1,6 +1,6 @@
 # Wiki-Search App
 
-The Wikipedia Search App is a web application that utilizes the Wikipedia API to allow users to perform specific searches, extract data from Wikipedia pages, and display the results in a user-friendly format. This project is built using React.js and Wikipedia API.
+The WikiFetcher App is a web application that utilizes the Wikipedia API to allow users to perform specific searches, extract data from Wikipedia pages, and display the results in a user-friendly format. This project is built using React.js and Wikipedia API.
 
 ## Features
 
