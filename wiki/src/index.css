@@ -5,13 +5,14 @@
   font-family: 'Fira Sans' , 'sans-serif';
 }
 body {
-  background-color: white;
+  background-color: #EEE;
 }
 .App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
+  background: url(./Assets/wikifetcherlogo.jpg);
 }
 header {
   display: flex;
@@ -26,7 +27,7 @@ h1 {
   margin-bottom: 16px;
 }
 .search-box {
-  display: block;
+  display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 16px;
@@ -54,7 +55,7 @@ search-box:focus-within {
   margin: 0 auto;
 }
 .result {
-  width: 100px;
+  width: 100%;
   padding: 16px;
   margin-bottom: 16px;
   background-color: white;
@@ -73,6 +74,9 @@ search-box:focus-within {
   color: #313131;
   font-size: 18px;
   margin-bottom: 16px;
+}
+.result p .searchmatch {
+  font-weight: 700;
 }
 .result a {
   display: inline-block;
