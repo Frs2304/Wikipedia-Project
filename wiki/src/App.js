@@ -32,8 +32,7 @@ function App() {
           <input type="search"
            placeholder='What are you looking for?'
            value={search}
-           onChange={e => setSearch(e.target.value)}
-           />
+           onChange={e => setSearch(e.target.value)}/>
           </form>
           {(searchInfo.totalhits) ? <p>Search Results: {searchInfo.totalhits}</p> : ''}
       </header>
