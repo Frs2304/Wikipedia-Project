@@ -17,3 +17,6 @@ The WikiFetcher App is a web application that utilizes the Wikipedia API to allo
     Start the client: npm run dev
     Start the server: npm start
     Open the app in your browser at http://localhost:3000
+    
+## Technologies
+    React.js: A JavaScript library for building user interface.
