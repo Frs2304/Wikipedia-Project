@@ -12,4 +12,8 @@ The WikiFetcher App is a web application that utilizes the Wikipedia API to allo
 
 ## Installation
 
-To install the Wikipedia Search App, simply clone this repository to your local machine or download the ZIP file. Then, open the index.html file in your preferred web browser to start using the application.
+    Clone the repository: git clone https://github.com/Frs2304/iChat-App.git
+    Install dependencies: npm install
+    Start the client: npm run dev
+    Start the server: npm start
+    Open the app in your browser at http://localhost:3000
